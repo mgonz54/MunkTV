@@ -1,6 +1,154 @@
 # MunkTV
 MunkTV
-#EXTINF:-1,USA: #### USA ####
-http://server.internext.tv:8000/live/star47/star47/8053.ts
-#EXTINF:-1,---- TEST Sports ----
-http://server.internext.tv:8000/live/star47/star47/10846.ts
+#EXTINF:-1,GREEK: NovaCinema1
+https://cdn.tzampa.tv/NovaCinema1/video.m3u8?token=na148d5e9mpsitigatana148d5e9m
+
+#EXTINF:-1,GREEK: OTECinema1
+https://cdn.tzampa.tv/OTECinema1/video.m3u8?token=na148d5e9mpsitigatana148d5e9m
+
+#EXTINF:-1,GREEK: OTECinema2
+https://cdn.tzampa.tv/OTECinema2/video.m3u8?token=na148d5e9mpsitigatana148d5e9m
+
+#EXTINF:-1,GREEK: OTECinema3
+https://cdn.tzampa.tv/OTECinema3/video.m3u8?token=na148d5e9mpsitigatana148d5e9m
+
+#EXTINF:-1,GREEK: OTECinema4
+https://cdn.tzampa.tv/OTECinema4/video.m3u8?token=na148d5e9mpsitigatana148d5e9m
+
+#EXTINF:-1,GREEK: OTESport1
+https://cdn.tzampa.tv/OTESport1/video.m3u8?token=na148d5e9mpsitigatana148d5e9m
+
+#EXTINF:-1,GREEK: OTESport2
+https://cdn.tzampa.tv/OTESport2/video.m3u8?token=na148d5e9mpsitigatana148d5e9m
+
+#EXTINF:-1,GREEK: OTESport3
+https://cdn.tzampa.tv/OTESport3/video.m3u8?token=na148d5e9mpsitigatana148d5e9m
+
+#EXTINF:-1,GREEK: OTESport4
+https://cdn.tzampa.tv/OTESport4/video.m3u8?token=na148d5e9mpsitigatana148d5e9m
+
+#EXTINF:-1,GREEK: OTESport5
+https://cdn.tzampa.tv/OTESport5/video.m3u8?token=na148d5e9mpsitigatana148d5e9m
+
+#EXTINF:-1,GREEK: OTESport6
+https://cdn.tzampa.tv/OTESport6/video.m3u8?token=na148d5e9mpsitigatana148d5e9m
+
+#EXTINF:-1,GREEK: OTESport7
+https://cdn.tzampa.tv/OTESport7/video.m3u8?token=na148d5e9mpsitigatana148d5e9m
+
+#EXTINF:-1,GREEK: OTESport8
+https://cdn.tzampa.tv/OTESport8/video.m3u8?token=na148d5e9mpsitigatana148d5e9m
+
+#EXTINF:-1,GREEK: NovaSports1
+https://cdn.tzampa.tv/NovaSports1/video.m3u8?token=na148d5e9mpsitigatana148d5e9m
+
+#EXTINF:-1,GREEK: NovaSports2
+https://cdn.tzampa.tv/NovaSports2/video.m3u8?token=na148d5e9mpsitigatana148d5e9m
+
+#EXTINF:-1,GREEK: Motorvision
+https://cdn.tzampa.tv/Motorvision/video.m3u8?token=na148d5e9mpsitigatana148d5e9m
+
+#EXTINF:-1,GREEK: Discovery
+https://cdn.tzampa.tv/Discovery/video.m3u8?token=na148d5e9mpsitigatana148d5e9m
+
+#EXTINF:-1,GREEK: DiscoveryScience
+https://cdn.tzampa.tv/DiscoveryScience/video.m3u8?token=na148d5e9mpsitigatana148d5e9m
+
+#EXTINF:-1,GREEK: DiscoveryShowCase
+https://cdn.tzampa.tv/DiscoveryShowCase/video.m3u8?token=na148d5e9mpsitigatana148d5e9m
+
+#EXTINF:-1,GREEK: DiscoveryID
+https://cdn.tzampa.tv/DiscoveryID/video.m3u8?token=na148d5e9mpsitigatana148d5e9m
+
+#EXTINF:-1,GREEK: DiscoveryIDX
+https://cdn.tzampa.tv/DiscoveryIDX/video.m3u8?token=na148d5e9mpsitigatana148d5e9m
+
+#EXTINF:-1,GREEK: History
+https://cdn.tzampa.tv/History/video.m3u8?token=na148d5e9mpsitigatana148d5e9m
+
+#EXTINF:-1,GREEK: NationalGeographic
+https://cdn.tzampa.tv/NationalGeographic/video.m3u8?token=na148d5e9mpsitigatana148d5e9m
+
+#EXTINF:-1,GREEK: NationalGeographicWild
+https://cdn.tzampa.tv/NationalGeographicWild/video.m3u8?token=na148d5e9mpsitigatana148d5e9m
+
+#EXTINF:-1,GREEK: NauticalChannel
+https://cdn.tzampa.tv/NauticalChannel/video.m3u8?token=na148d5e9mpsitigatana148d5e9m
+
+#EXTINF:-1,GREEK: Travel
+https://cdn.tzampa.tv/Travel/video.m3u8?token=na148d5e9mpsitigatana148d5e9m
+
+#EXTINF:-1,GREEK: OTEHistory
+https://cdn.tzampa.tv/OTEHistory/video.m3u8?token=na148d5e9mpsitigatana148d5e9m
+
+#EXTINF:-1,GREEK: HBO
+https://cdn.tzampa.tv/HBO/video.m3u8?token=na148d5e9mpsitigatana148d5e9m
+
+#EXTINF:-1,GREEK: USANetwork
+https://cdn.tzampa.tv/USANetwork/video.m3u8?token=na148d5e9mpsitigatana148d5e9m
+
+#EXTINF:-1,RUSSIAN: FOX
+https://cdn.tzampa.tv/FOX/video.m3u8?token=na148d5e9mpsitigatana148d5e9m
+
+#EXTINF:-1,RUSSIAN: FOXLife
+https://cdn.tzampa.tv/FOXLife/video.m3u8?token=na148d5e9mpsitigatana148d5e9m
+
+#EXTINF:-1,GREEK: Village
+https://cdn.tzampa.tv/Village/video.m3u8?token=na148d5e9mpsitigatana148d5e9m
+
+#EXTINF:-1,GREEK: Moviebox1
+https://cdn.tzampa.tv/Moviebox1/video.m3u8?token=na148d5e9mpsitigatana148d5e9m
+
+#EXTINF:-1,GREEK: Moviebox2
+https://cdn.tzampa.tv/Moviebox2/video.m3u8?token=na148d5e9mpsitigatana148d5e9m
+
+#EXTINF:-1,GREEK: Moviebox3
+https://cdn.tzampa.tv/Moviebox3/video.m3u8?token=na148d5e9mpsitigatana148d5e9m
+
+#EXTINF:-1,GREEK: Moviebox4
+https://cdn.tzampa.tv/Moviebox4/video.m3u8?token=na148d5e9mpsitigatana148d5e9m
+
+#EXTINF:-1,GREEK: Moviebox5
+https://cdn.tzampa.tv/Moviebox5/video.m3u8?token=na148d5e9mpsitigatana148d5e9m
+
+#EXTINF:-1,GREEK: Bestmovies1
+https://cdn.tzampa.tv/Bestmovies1/video.m3u8?token=na148d5e9mpsitigatana148d5e9m
+
+#EXTINF:-1,GREEK: Bestmovies2
+https://cdn.tzampa.tv/Bestmovies2/video.m3u8?token=na148d5e9mpsitigatana148d5e9m
+
+#EXTINF:-1,GREEK: Bestmovies3
+https://cdn.tzampa.tv/Bestmovies3/video.m3u8?token=na148d5e9mpsitigatana148d5e9m
+
+#EXTINF:-1,GREEK: Bestmovies4
+https://cdn.tzampa.tv/Bestmovies4/video.m3u8?token=na148d5e9mpsitigatana148d5e9m
+
+#EXTINF:-1,GREEK: Bestmovies5
+https://cdn.tzampa.tv/Bestmovies5/video.m3u8?token=na148d5e9mpsitigatana148d5e9m
+
+#EXTINF:-1,GREEK: Bestmovies6
+https://cdn.tzampa.tv/Bestmovies6/video.m3u8?token=na148d5e9mpsitigatana148d5e9m
+
+#EXTINF:-1,GREEK: DisneyChannel
+https://cdn.tzampa.tv/DisneyChannel/video.m3u8?token=na148d5e9mpsitigatana148d5e9m
+
+#EXTINF:-1,GREEK: DisneyJunior
+https://cdn.tzampa.tv/DisneyJunior/video.m3u8?token=na148d5e9mpsitigatana148d5e9m
+
+#EXTINF:-1,GREEK: ANT1
+https://cdn.tzampa.tv/MEGA/video.m3u8?token=na148d5e9mpsitigatana148d5e9m
+
+#EXTINF:-1,GREEK: MEGA
+https://cdn.tzampa.tv/MEGA/video.m3u8?token=na148d5e9mpsitigatana148d5e9m
+
+#EXTINF:-1,GREEK: ERTHD
+https://cdn.tzampa.tv/ERTHD/video.m3u8?token=na148d5e9mpsitigatana148d5e9m
+
+#EXTINF:-1,GREEK: ERT2
+https://cdn.tzampa.tv/ERT2/video.m3u8?token=na148d5e9mpsitigatana148d5e9m
+
+#EXTINF:-1,GREEK: Star
+https://cdn.tzampa.tv/Star/video.m3u8?token=na148d5e9mpsitigatana148d5e9m
+
+#EXTINF:-1,GREEK: Nickelodeon
+https://cdn.tzampa.tv/Nickelodeon/video.m3u8?token=na148d5e9mpsitigatana148d5e9m
