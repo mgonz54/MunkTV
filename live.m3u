@@ -1,0 +1,6 @@
+# MunkTV
+MunkTV
+#EXTINF:-1,USA: #### USA ####
+http://server.internext.tv:8000/live/star47/star47/8053.ts
+#EXTINF:-1,---- TEST Sports ----
+http://server.internext.tv:8000/live/star47/star47/10846.ts
